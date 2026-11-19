@@ -6,9 +6,9 @@ This repository accompanies my LinkedIn series on explainable AI and responsible
 
 ## Notebooks
 
-| # | Notebook | What it covers |
-|---|----------|----------------|
-| 01 | [Give Me Some Credit: Who Becomes Delinquent?](notebooks/01_give_me_some_credit_eda.ipynb) | Exploratory analysis of 150,000 borrowers: class imbalance, missing data, data quality issues, and which factors are linked to serious delinquency |
+| # | Notebook | What it covers | Kaggle |
+|---|----------|----------------|--------|
+| 01 | [Give Me Some Credit: Who Becomes Delinquent?](notebooks/01_give_me_some_credit_eda.ipynb) | Exploratory analysis of 150,000 borrowers: class imbalance, missing data, data quality issues, and which factors are linked to serious delinquency | [View on Kaggle](https://www.kaggle.com/code/payazmohammed/give-me-some-credit-who-becomes-delinquent) |
 
 More notebooks are on the way: data cleaning, assumption checks, logistic regression in JASP and Python, model evaluation on imbalanced data, and explainable models.
 
